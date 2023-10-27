@@ -1,0 +1,21 @@
+1
+mkdir be1
+2
+cd be1
+3
+mkdir 1_init
+4
+mkdir 2_command
+5
+rm -f 2_command
+6
+cd 1_init
+7
+pwd
+8
+touch hoge.txt
+9
+ls -a
+10
+exit;
+

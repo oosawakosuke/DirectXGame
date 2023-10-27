@@ -1,0 +1,146 @@
+﻿'DirectXGame.exe' (Win32): 'C:\Users\dorae\OneDrive\デスクトップ\就活作品\AL3_CG3_Start (2)\DirectXGame\x64\Debug\DirectXGame.exe' が読み込まれました。シンボルが読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\ntdll.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\kernel32.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\KernelBase.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\user32.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\win32u.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\gdi32.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\gdi32full.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\msvcp_win.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\ucrtbase.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\ole32.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\rpcrt4.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\combase.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\D3DCompiler_47.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\dxgi.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\msvcp140d.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\D3D12.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\msvcrt.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\dinput8.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\vcruntime140d.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\vcomp140d.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\advapi32.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\vcruntime140_1d.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\sechost.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\ucrtbased.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\kernel.appcore.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\cryptsp.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\imm32.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\InputHost.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\SHCore.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\oleaut32.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\CoreMessaging.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\ws2_32.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\WinTypes.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\propsys.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\CoreUIComponents.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\bcryptprimitives.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\ntmarta.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\uxtheme.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\ProgramData\A-Volute\A-Volute.Nahimic\Modules\Scheduled\x64\AudioDevProps2.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\shlwapi.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\shell32.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\msctf.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\TextInputFramework.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\D3D12Core.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\DXGIDebug.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\d3d12SDKLayers.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\ResourcePolicyClient.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\ResourcePolicyClient.dll' がアンロードされました
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\windows.storage.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\wldp.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvmi.inf_amd64_2923e09a5fc01afe\nvdlistx.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\version.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\DXCore.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\cfgmgr32.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvmi.inf_amd64_2923e09a5fc01afe\nvldumdx.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\crypt32.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\wintrust.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\msasn1.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\imagehlp.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvmi.inf_amd64_2923e09a5fc01afe\nvdlistx.dll' がアンロードされました
+スレッド 0x2760 はコード 0 (0x0) で終了しました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\rsaenh.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\bcrypt.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\cryptbase.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\nvmi.inf_amd64_2923e09a5fc01afe\nvwgf2umx.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\winmm.dll' が読み込まれました。
+スレッド 0x3f14 はコード 0 (0x0) で終了しました。
+'DirectXGame.exe' (Win32): 'C:\Program Files\NVIDIA Corporation\Ansel\Tools\NvCameraWhitelisting64.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Program Files\NVIDIA Corporation\Ansel\Tools\NvCameraWhitelisting64.dll' がアンロードされました
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\nvspcap64.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\profapi.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\powrprof.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\umpdc.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\dxilconv.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\D3DSCache.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\userenv.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\twinapi.appcore.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\dxilconv.dll' がアンロードされました
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\d3d11.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_1dc9fc8d5e442f6a\igd10iumd64.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\ncrypt.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\ntasn1.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_1dc9fc8d5e442f6a\igdgmm64.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_1dc9fc8d5e442f6a\igc64.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\dcomp.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\dwmapi.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\hid.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\setupapi.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\devobj.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\XAudio2_9.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\MMDevAPI.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\avrt.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\clbcatq.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\AudioSes.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\ProgramData\A-Volute\A-Volute.Nahimic\Modules\Scheduled\x64\ProductInfo.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\ProgramData\A-Volute\A-Volute.Nahimic\Modules\Scheduled\x64\ASM.Plugin.AudioDevProps2.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\ResourcePolicyClient.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\dxilconv.dll' が読み込まれました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\WindowsCodecs.dll' が読み込まれました。
+スレッド 0x3a6c はコード 0 (0x0) で終了しました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\WindowsCodecs.dll' がアンロードされました
+スレッド 0x894 はコード 0 (0x0) で終了しました。
+スレッド 0x2204 はコード 0 (0x0) で終了しました。
+スレッド 0x5018 はコード 0 (0x0) で終了しました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_1dc9fc8d5e442f6a\igc64.dll' がアンロードされました
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_1dc9fc8d5e442f6a\igdgmm64.dll' がアンロードされました
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\ntasn1.dll' がアンロードされました
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\ncrypt.dll' がアンロードされました
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_1dc9fc8d5e442f6a\igd10iumd64.dll' がアンロードされました
+スレッド 0x2218 はコード 0 (0x0) で終了しました。
+スレッド 0x49c0 はコード 0 (0x0) で終了しました。
+スレッド 0x37b8 はコード 0 (0x0) で終了しました。
+'DirectXGame.exe' (Win32): 'C:\Windows\System32\d3d11.dll' がアンロードされました
+スレッド 0x2e40 はコード 0 (0x0) で終了しました。
+スレッド 0x3424 はコード 0 (0x0) で終了しました。
+スレッド 0x2874 はコード 0 (0x0) で終了しました。
+スレッド 0x429c はコード 0 (0x0) で終了しました。
+スレッド 0xb4c はコード 0 (0x0) で終了しました。
+スレッド 0x1768 はコード 0 (0x0) で終了しました。
+スレッド 0x36d4 はコード 0 (0x0) で終了しました。
+スレッド 0x50f4 はコード 0 (0x0) で終了しました。
+スレッド 0x418c はコード 0 (0x0) で終了しました。
+スレッド 0x5834 はコード 0 (0x0) で終了しました。
+スレッド 0x3410 はコード 0 (0x0) で終了しました。
+スレッド 0x4060 はコード 0 (0x0) で終了しました。
+スレッド 0x4e18 はコード 0 (0x0) で終了しました。
+スレッド 0x3da4 はコード 0 (0x0) で終了しました。
+スレッド 0x5790 はコード 0 (0x0) で終了しました。
+スレッド 0x545c はコード 0 (0x0) で終了しました。
+D3D12 WARNING: Process is terminating. Using simple reporting. Please call ReportLiveObjects() at runtime for standard reporting. [ STATE_CREATION WARNING #0: UNKNOWN]
+D3D12 WARNING: Live Producer at 0x0000014917F8EA48, Refcount: 2. [ STATE_CREATION WARNING #0: UNKNOWN]
+D3D12 WARNING: 	Live Object at 0x0000014918127870, Refcount: 0. [ STATE_CREATION WARNING #0: UNKNOWN]
+D3D12 WARNING: 	Live Object at 0x00000149181503E0, Refcount: 0. [ STATE_CREATION WARNING #0: UNKNOWN]
+D3D12 WARNING: 	Live Object at 0x000001491814C370, Refcount: 0. [ STATE_CREATION WARNING #0: UNKNOWN]
+D3D12 WARNING: 	Live Object at 0x0000014918267A60, Refcount: 0. [ STATE_CREATION WARNING #0: UNKNOWN]
+D3D12 WARNING: 	Live Object at 0x0000014918267010, Refcount: 0. [ STATE_CREATION WARNING #0: UNKNOWN]
+D3D12 WARNING: 	Live Object at 0x000001491814FEF0, Refcount: 0. [ STATE_CREATION WARNING #0: UNKNOWN]
+D3D12 WARNING: 	Live Object at 0x000001491801EFD0, Refcount: 0. [ STATE_CREATION WARNING #0: UNKNOWN]
+D3D12 WARNING: 	Live Object at 0x000001491EC39A60, Refcount: 0. [ STATE_CREATION WARNING #0: UNKNOWN]
+D3D12 WARNING: 	Live Object at 0x0000014922983270, Refcount: 1. [ STATE_CREATION WARNING #0: UNKNOWN]
+D3D12 WARNING: 	Live Object at 0x00000149229CD470, Refcount: 0. [ STATE_CREATION WARNING #0: UNKNOWN]
+D3D12 WARNING: 	Live Object at 0x000001492297DBC0, Refcount: 1. [ STATE_CREATION WARNING #0: UNKNOWN]
+D3D12 WARNING: 	Live Object at 0x00000149229CCF10, Refcount: 0. [ STATE_CREATION WARNING #0: UNKNOWN]
+D3D12 WARNING: Live                         Object :     12 [ STATE_CREATION WARNING #0: UNKNOWN]
+プログラム '[21044] DirectXGame.exe' はコード 0 (0x0) で終了しました。
